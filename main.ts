@@ -2,7 +2,7 @@
 * Author: Bianca Bertinato
 * Version: 1.0.0
 * Date: 2025-11-09
-* This program displays the average of three numbers .
+* This program displays the average of three numbers.
 */
 
 // INITIALIZE
